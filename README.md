@@ -552,7 +552,7 @@ http://www.zegomovie.com/Videos/ReadyorNot/index.m3u8
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/279f3c7b5dcec588a6631.jpg " group-title="2022 MMSUBMOVIES",Cadaver (2022)
 Bollywood, Crime, Drama, Mystery
 https://assets-1.entertainvideo.com/assets/media/31c33b8a12bfbc30837664e2e9ba0408/dash/2e27929445e4e164ec036e36d034b965.mpd
-EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDE5NGU5N2UtYWEyNi00ZmEyLTk0MWQtYWZiZjZhM2MxMWNiXkEyXkFqcGdeQXVyNDcyMjA4MTA@._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDE5NGU5N2UtYWEyNi00ZmEyLTk0MWQtYWZiZjZhM2MxMWNiXkEyXkFqcGdeQXVyNDcyMjA4MTA@._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",
 https://proxy.antarctica.workers.dev/public.php?file=02504066717b644170030458586c5f7c6c51545d64405e5d700a75504676495f41&expiry=020505010b0604040b020b0205.mp4.mkv
 EXTINF:-1 tvg-logo="https://telegra.ph/file/28f24676d6970f9b8b9dc.jpg" group-title="2022MMSUBMOVIES",Poikkal Kuthirai (2022)
 Bollywood
